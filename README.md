@@ -1,15 +1,12 @@
-**Inspection of Electrical Power Distribution Grid**
+**Contaminated Insulators**
 
-We present photographs of inspections of the electrical power network (13.8 kV) carried out in southern Brazil.
-The inspections were performed close to the city of Blumenau by researchers from the high voltage laboratory, Regional University of Blumenau (FURB). 
+We present photographs of contaminated insulators, pin-type 13.8 kV.
 
-240 photographs of the electrical power network are presented:  
-120 are of damaged structures and/or components.  
-120 are in normal conditions.    
- 
-Among the problems found in the distribution network, the following stand out:
-* Contaminated insulators.
-* Broken insulators.
-* Contaminated crosshead.
-* Birds' nests on the crosshead.
-* Fungi strongly attached to the structure. 
+It was performed in 8 different conditions of contamination, based on the combination of ESDD and NSDD.
+*Equivalent salt deposit density (ESDD)*
+*Non-soluble deposit density (NSDD)*
+
+For each condition, 4 different sides photographs, and using 4 different zooms are presented.
+640 photographs of contaminated insulators are presented.
+
+The analysis was performed by researchers from the high voltage laboratory, Regional University of Blumenau (FURB). 
