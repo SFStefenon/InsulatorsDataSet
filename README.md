@@ -6,7 +6,7 @@ It was performed in 8 different conditions of contamination, based on the combin
 *Equivalent salt deposit density (ESDD)*
 *Non-soluble deposit density (NSDD)*
 
-For each condition, 4 different sides photographs, and using 4 different zooms are presented.
+For each condition, 4 different sides photographs, and using 4 different zooms are presented.  
 640 photographs of contaminated insulators are presented.
 
 The analysis was performed by researchers from the high voltage laboratory, Regional University of Blumenau (FURB). 
