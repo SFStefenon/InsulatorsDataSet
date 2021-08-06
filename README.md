@@ -2,7 +2,7 @@
 
 We present photographs of contaminated insulators, pin-type 13.8 kV.
 
-It was performed in 40 different conditions of contamination, based on the combination of ESDD and NSDD.
+It was performed in 40 different conditions of contamination, based on the combination of ESDD and NSDD.   
 *Equivalent salt deposit density (ESDD)*  
 *Non-soluble deposit density (NSDD)*
 
