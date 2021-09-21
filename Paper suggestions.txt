@@ -67,4 +67,8 @@ journal={IEEE Access}, year={2021}, volume={9}, pages={66387-66397}, doi={10.110
 author={S. F. Stefenon and L. O. Seman and N. F. {Sopelsa Neto} and L. H. Meyer and A. Nied and K. C. Yow},
 title={Echo state network applied for classification of medium voltage insulators}, 
 journal={International Journal of Electrical Power \& Energy Systems}, volume={134}, pages={107336}, year={2022}, doi={10.1016/j.ijepes.2021.107336}}
+
+@Article{ste15, AUTHOR = {Corso, Marcelo Picolotto and Perez, Fabio Luis and Stefenon, Stéfano Frizzo and Yow, Kin-Choong and García Ovejero, Raúl and Leithardt, Valderi Reis Quietinho}, TITLE = {Classification of Contaminated Insulators Using k-Nearest Neighbors Based on Computer Vision}, JOURNAL = {Computers}, VOLUME = {10}, YEAR = {2021}, NUMBER = {9}, pages = {112}, DOI = {10.3390/computers10090112}}
+
+@article{ste16,  author={Stefenon, St{\'e}fano Frizzo and Neto, Clodoaldo Schutel Furtado and Coelho, Thiago Spindola and Nied, Ademir and Yamaguchi, Cristina Keiko and Yow, Kin-Choong}, title={Particle swarm optimization for design of insulators of distribution power system based on finite element method},  journal={Electrical Engineering},  pages={1--8},  year={2021},  publisher={Springer}, doi = {10.1007/s00202-021-01332-3}}
   
