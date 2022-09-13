@@ -3,72 +3,102 @@ author={Stefenon, S. F. and Oliveira, J. R. and Coelho, A. S. and Meyer, L. H.},
 title={Diagnostic of Insulators of Conventional Grid Through LabVIEW Analysis of FFT Signal Generated from Ultrasound Detector},   
 journal={IEEE Latin America Transactions},  year={2017},  volume={15},  number={5},  pages={884-889},  doi={10.1109/TLA.2017.7910202}}
 
-@article{ste2, 
-author={Stefenon, S. F. and Freire, R. Z. and Coelho, L. S. and Meyer, L. H. and Grebogi, R. B. and Buratto, W. G. and Nied, A.}, 
-title={Electrical Insulator Fault Forecasting Based on a Wavelet Neuro-Fuzzy System}, 
-journal={Energies}, year={2020}, volume={13}, number={2}, pages={484}, DOI={10.3390/en13020484}}
-
-@article{ste3, 
-author={S. F. Stefenon and M. H. D. M. Ribeiro and A. Nied and V. C. Mariani and L. S. Coelho and D. F. M. Rocha and R. B. Grebogi and Ruano, A. E. B.},
-title={Wavelet group method of data handling for fault prediction in electrical power insulators}, 
-journal={International Journal of Electrical Power \& Energy Systems}, volume={123}, pages={106269}, year={2020}, doi={10.1016/j.ijepes.2020.106269}}
-
-@ARTICLE{ste4, 
-author={S. F. {Stefenon} and R. B. {Grebogi} and R. Z. {Freire} and A. {Nied} and L. H. {Meyer}}, 
-title={Optimized Ensemble Extreme Learning Machine for Classification of Electrical Insulators Conditions}, 
-journal={IEEE Transactions on Industrial Electronics}, year={2020}, volume={67}, number={6}, pages={5170-5178}, doi={10.1109/TIE.2019.2926044}}
-
-@ARTICLE{ste5, 
-author={M. P. {Corso} and S. F. {Stefenon} and V. F. {Couto} and S. H. L. {Cabral} and A. {Nied}}, 
-title={Evaluation of Methods for Electric Field Calculation in Transmission Lines}, 
-journal={IEEE Latin America Transactions}, year={2018}, volume={16}, number={12}, pages={2970-2976}, doi={10.1109/TLA.2018.8804264}}
-
-@ARTICLE{ste6, 
-author={S. F. {Stefenon} and M. C. {Silva} and D. W. {Bertol} and L. H. {Meyer} and A. {Nied}}, 
-title={Fault diagnosis of insulators from ultrasound detection using neural networks}, 
-journal={Journal of Intelligent \& Fuzzy Systems}, year={2019}, volume={37}, number={5}, pages={6655-6664}, doi={10.3233/JIFS-190013}}
-
-@ARTICLE{ste7,  
+@ARTICLE{ste2,  
 author={Stefenon, S. F.  and Americo, Jonatas Policarpo and Meyer, L. H. and Grebogi, R. B. and Nied, A.},  
 title={Analysis of the Electric Field in Porcelain Pin-Type Insulators via Finite Elements Software},   
-journal={IEEE Latin America Transactions}, year={2018}, volume={16}, number={10}, pages={2505-2512}, doi={10.1109/TLA.2018.8795129}}
+journal={IEEE Latin America Transactions},   year={2018},  volume={16},  number={10},  pages={2505-2512},  doi={10.1109/TLA.2018.8795129}}
 
-@ARTICLE{ste8,  
-author={Kasburg, C. and  Stefenon, S. F.},  
-title={Deep Learning for Photovoltaic Generation Forecast in Active Solar Trackers},  
-journal={IEEE Latin America Transactions}, year={2019}, volume={17}, number={12}, pages={2013-2019}, doi={10.1109/TLA.2019.9011546}}
+@ARTICLE{ste3, 
+author={M. P. {Corso} and S. F. {Stefenon} and V. F. {Couto} and S. H. L. {Cabral} and A. {Nied}}, 
+title={Evaluation of Methods for Electric Field Calculation in Transmission Lines}, 
+journal={IEEE Latin America Transactions}, year={2018}, volume={16}, number={12}, pages={2970-2976}, doi={10.1109/TLA.2018.8804264},}
 
-@ARTICLE{ste9, 
+@ARTICLE{ste4, 
+author={S. F. {Stefenon} and M. C. {Silva} and D. W. {Bertol} and L. H. {Meyer} and A. {Nied}}, 
+title={Fault diagnosis of insulators from ultrasound detection using neural networks}, 
+journal={Journal of Intelligent \& Fuzzy Systems}, year={2019}, volume={37}, number={5}, pages={6655-6664}, doi={10.3233/JIFS-190013},}
+
+@article{ste5, 
+author={Stefenon, S. F. and Freire, R. Z. and Coelho, L. S. and Meyer, L. H. and Grebogi, R. B. and Buratto, W. G. and Nied, A.}, 
+title={Electrical Insulator Fault Forecasting Based on a Wavelet Neuro-Fuzzy System}, 
+volume={13}, DOI={10.3390/en13020484}, number={2}, journal={Energies}, year={2020}, pages={484}}
+
+@ARTICLE{ste6, 
 author={S. F. {Stefenon} and N. W. {Branco} and A. {Nied} and D. W. {Bertol} and E. C. {Finardi} and A. {Sartori} and L. H. {Meyer} and R. B. {Grebogi}}, 
 title={Analysis of training techniques of ANN for classification of insulators in electrical power systems}, 
-journal={IET Generation Transmission \& Distribution}, year={2020}, volume={14}, number={8}, pages={1591–1597}, doi={10.1049/iet-gtd.2019.1579}}
+journal={IET Generation Transmission \& Distribution}, year={2020}, volume={14}, number={8}, pages={1591–1597}, doi={10.1049/iet-gtd.2019.1579},}
 
-@Article{ste10, 
-author={Ribeiro, M. H. D. M. and Stefenon, S. F. and Lima, José Donizetti and Nied, A. and Mariani, V. C. and Coelho, L. S.}, 
-title={Electricity Price Forecasting Based on Self-Adaptive Decomposition and Heterogeneous Ensemble Learning}, 
-journal={Energies}, volume={13}, year={2020}, number={19}, pages={5190}, doi={10.3390/en13195190}}  
+@article{ste7, 
+author = "S. F. Stefenon and M. H. D. M. Ribeiro and A. Nied and V. C. Mariani and L. S. Coelho and D. F. M. Rocha and R. B. Grebogi and Ruano, A. E. B.",
+title = "Wavelet group method of data handling for fault prediction in electrical power insulators", 
+journal = "International Journal of Electrical Power \& Energy Systems", volume = "123", pages = "106269", year = "2020", doi = "10.1016/j.ijepes.2020.106269",}
 
-@article{ste11,   
-author={Sopelsa Neto, N. F. and Stefenon, S. F. and Meyer, L. H. and Bruns, Rafael and Nied, A. and Seman, L. O. and Gonzalez, G. V. and Leithardt, V. R. Q. and Yow, K. C.}, 
-title={A Study of Multilayer Perceptron Networks Applied to Classification of Ceramic Insulators Using Ultrasound}, 
-journal={Applied Sciences}, volume={11}, number={4}, pages={1592}, year={2021}, doi={10.3390/app11041592}}
+@ARTICLE{ste8, 
+author={S. F. {Stefenon} and R. B. {Grebogi} and R. Z. {Freire} and A. {Nied} and L. H. {Meyer}}, 
+title={Optimized Ensemble Extreme Learning Machine for Classification of Electrical Insulators Conditions}, 
+journal={IEEE Transactions on Industrial Electronics}, year={2020}, volume={67}, number={6}, pages={5170-5178}, doi={10.1109/TIE.2019.2926044},}
 
-@article{ste12,  
+@article{ste9,  
 author={Stefenon, S. F. and Freire, R. Z. and Meyer, L. H. and Corso, M. P. and Sartori, Andreza and Nied, A. and Klaar, A. C. R. and Yow, K. C.},  
 title={Fault detection in insulators based on ultrasonic signal processing using a hybrid deep learning technique},  
-journal={IET Science, Measurement \& Technology}, volume={14}, number={10}, pages={953--961}, year={2020}, doi={10.1049/iet-smt.2020.0083}}
+journal={IET Science, Measurement \& Technology},  volume={14},  number={10}, pages={953--961},  year={2020},  doi={10.1049/iet-smt.2020.0083}}
+
+@article{ste10,  
+author={Sopelsa Neto, N. F. and Stefenon, S. F. and Meyer, L. H. and Bruns, R. and Nied, A. and Seman, L. O. and Gonzalez, G. V. and Leithardt, V. R. Q. and Yow, K. C.}, 
+title={A Study of Multilayer Perceptron Networks Applied to Classification of Ceramic Insulators Using Ultrasound},  
+journal={Applied Sciences},  volume={11},  number={4},  pages={1592},  year={2021}, doi={10.3390/app11041592},}
+
+@ARTICLE{ste11, 
+author={Stefenon, S. F. and Ribeiro, M. H. D. M. and Nied, A. and Mariani, V. C. and Coelho, L. S. and Leithardt, V. R. Q. and Silva, L. A. and Seman, L. O.},  
+title={Hybrid Wavelet Stacking Ensemble Model for Insulators Contamination Forecasting},   
+journal={IEEE Access}, year={2021},  volume={9},  number={},  pages={66387-66397}, doi={10.1109/ACCESS.2021.3076410}}
+  
+@Article{ste12, 
+AUTHOR = {Corso, M. P. and Perez, F. L. and Stefenon, S. F. and Yow, K.-C. and Ovejero, R. G. and Leithardt, V. R. Q.}, 
+TITLE = {Classification of Contaminated Insulators Using k-Nearest Neighbors Based on Computer Vision}, 
+JOURNAL = {Computers}, VOLUME = {10}, YEAR = {2021}, NUMBER = {9}, pages = {112}, DOI = {10.3390/computers10090112}}
 
 @article{ste13, 
-author={Stefenon, S. F. and Ribeiro, M. H. D. M. and Nied, A. and Mariani, V. C. and Coelho, L. S. and Leithardt, V. R. Q. and Silva, L. A. and Seman, L. O.},  
-title={Hybrid Wavelet Stacking Ensemble Model for Insulators Contamination Forecasting},  
-journal={IEEE Access}, year={2021}, volume={9}, pages={66387-66397}, doi={10.1109/ACCESS.2021.3076410}}
-  
-@article{ste14, 
-author={S. F. Stefenon and L. O. Seman and N. F. {Sopelsa Neto} and L. H. Meyer and A. Nied and K. C. Yow},
-title={Echo state network applied for classification of medium voltage insulators}, 
-journal={International Journal of Electrical Power \& Energy Systems}, volume={134}, pages={107336}, year={2022}, doi={10.1016/j.ijepes.2021.107336}}
+author = {Stefenon, S. F. and Corso, M. P. and Nied, A. and Perez, F. L. and Yow, K.-C. and Gonzalez, G. V. and Leithardt, V. R. Q.}, 
+title = {Classification of insulators using neural network based on computer vision}, 
+journal = {IET Generation, Transmission \& Distribution}, volume={16}, number={6}, pages={1096-1107}, doi = {10.1049/gtd2.12353}, year={2021}}
 
-@Article{ste15, AUTHOR = {Corso, Marcelo Picolotto and Perez, Fabio Luis and Stefenon, Stéfano Frizzo and Yow, Kin-Choong and García Ovejero, Raúl and Leithardt, Valderi Reis Quietinho}, TITLE = {Classification of Contaminated Insulators Using k-Nearest Neighbors Based on Computer Vision}, JOURNAL = {Computers}, VOLUME = {10}, YEAR = {2021}, NUMBER = {9}, pages = {112}, DOI = {10.3390/computers10090112}}
+@article{ste14,  
+author={Stefenon, S. F. and Furtado Neto, C. S. and Coelho, T. S. and Nied, A. and Yamaguchi, C. K. and Yow, K.-C.},
+title={Particle swarm optimization for design of insulators of distribution power system based on finite element method}, 
+journal={Electrical Engineering},  volume={104},  pages={615–622},  year={2022},  publisher={Springer}, doi={10.1007/s00202-021-01332-3}}
 
-@article{ste16,  author={Stefenon, St{\'e}fano Frizzo and Neto, Clodoaldo Schutel Furtado and Coelho, Thiago Spindola and Nied, Ademir and Yamaguchi, Cristina Keiko and Yow, Kin-Choong}, title={Particle swarm optimization for design of insulators of distribution power system based on finite element method},  journal={Electrical Engineering},  pages={1--8},  year={2021},  publisher={Springer}, doi = {10.1007/s00202-021-01332-3}}
-  
+@article{ste15,
+author = {Stefenon, S. F. and Seman, L. O. and Pavan, B. A. and Ovejero, R. G. and Leithardt, V. R. Q.},
+title = {Optimal design of electrical power distribution grid spacers using finite element method},
+journal = {IET Generation, Transmission \& Distribution}, volume = {16}, number = {9}, pages = {1865-1876}, doi = {10.1049/gtd2.12425}, year = {2022}}
+
+@article{ste16, 
+author={Medeiros, A. and Sartori, A. and Stefenon, S. F. and Meyer, L. H. and Nied, A.}, 
+title={Comparison of artificial intelligence techniques to failure prediction in contaminated insulators based on leakage current}, 
+journal={Journal of Intelligent \& Fuzzy Systems}, year={2022}, volume={42}, number={4}, pages={3285-3298}, DOI={10.3233/JIFS-211126},}
+
+@ARTICLE{ste17,  
+author={Stefenon, S. F. and Bruns, R. and Sartori, A. and Meyer, L. H. and Ovejero, R. G. and Leithardt, V. R. Q.},
+title={Analysis of the Ultrasonic Signal in Polymeric Contaminated Insulators Through Ensemble Learning Methods},   
+journal={IEEE Access}, year={2022}, volume={10}, number={}, pages={33980-33991},  doi={10.1109/ACCESS.2022.3161506}}
+
+@Article{ste18, 
+AUTHOR = {Stefenon, S. F. and Singh, G. and Yow,  K.-C. and Cimatti, A.}, 
+TITLE = {Semi-ProtoPNet Deep Neural Network for the Classification of Defective Power Grid Distribution Structures}, 
+JOURNAL = {Sensors}, VOLUME = {22}, YEAR = {2022}, NUMBER = {13}, pages = {4859}, DOI = {10.3390/s22134859}}
+
+@article{ste19, 
+author = {S. F. Stefenon and L. O. Seman and N. F. {Sopelsa Neto} and L. H. Meyer and A. Nied and K. C. Yow},
+title = {Echo state network applied for classification of medium voltage insulators}, 
+journal = {International Journal of Electrical Power \& Energy Systems}, volume = {134}, pages = {107336}, year = {2022}, doi = {10.1016/j.ijepes.2021.107336}}
+
+@Article{ste20,
+AUTHOR = {Sopelsa Neto, N. F. and Stefenon, S. F. and Meyer, L. H. and Ovejero, R. G. and Leithardt, V. R. Q.},
+TITLE = {Fault Prediction Based on Leakage Current in Contaminated Insulators Using Enhanced Time Series Forecasting Models},
+JOURNAL = {Sensors}, VOLUME = {22}, YEAR = {2022}, NUMBER = {16}, pages = {6121}, DOI = {10.3390/s22166121}}
+
+@Article{ste21,
+AUTHOR = {Stefenon, S. F. and Yow, K.-C. and Nied, A. and Meyer, L. H.},
+TITLE = {Classification of distribution power grid structures using inception v3 deep neural network},
+JOURNAL = {Electrical Engineering}, VOLUME = {pre-print}, YEAR = {2022}, NUMBER = {}, pages = {1-13}, DOI = {10.1007/s00202-022-01641-1}}
