@@ -1,4 +1,4 @@
-**Contaminated Insulators**
+# Contaminated Insulators
 
 We present photographs of contaminated insulators, model 2-95-1, manufactured by Germer Isoladores, mono body, pin-type profile, voltage class 15 kV, of porcelain material.
 
