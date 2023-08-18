@@ -10,6 +10,9 @@ For comparison purposes, 48 photographs of clean insulators are also presented.
 
 The analysis was performed by researchers from the high voltage laboratory, Regional University of Blumenau (FURB), Blumenau, Brazil. 
 
+
+https://doi.org/10.1049/gtd2.12353
+
 ---
 Thank you.
 
