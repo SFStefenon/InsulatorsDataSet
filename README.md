@@ -7,7 +7,7 @@ For each condition, 4 different sides photographs, and using 4 different zooms w
 In total, there are 640 photographs of contaminated insulators.  
 For comparison purposes, 48 photographs of clean insulators are also presented.
 
-The analysis was performed by Marcelo Picolotto Corso at the high voltage laboratory, Regional University of Blumenau (FURB), Blumenau, Brazil. 
+The analysis was performed by Marcelo Picolotto Corso at the High Voltage Laboratory, Electrical Engineering Department, Regional University of Blumenau (FURB), Blumenau, Brazil. 
 
 ---
 
