@@ -17,7 +17,7 @@ Application examples can be found at:
 
 **[Corso, M. P., et al. Classification of contaminated insulators using k-nearest neighbors based on computer vision, Computers, vol. 10, n. 9, p. 112, 2021.](https://doi.org/10.3390/computers10090112)**
 
-**[Corso, M. P., et al. Evaluation of visible contamination on power grid insulators using convolutional neural networks, Electrical Engineering, vol. preprint, pp. 1-14, 2023.](https://doi.org/10.1007/s00202-023-01915-2)**
+**[Corso, M. P., Stefenon, S. F., Singh, G., et al. Evaluation of visible contamination on power grid insulators using convolutional neural networks, Electrical Engineering, vol. preprint, pp. 1-14, 2023.](https://doi.org/10.1007/s00202-023-01915-2)**
 
 ---
 Thank you.
