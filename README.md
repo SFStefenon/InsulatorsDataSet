@@ -25,7 +25,7 @@ BibTeX:
 
 `@article{iet12353, title = {Classification of insulators using neural network based on computer vision}, author = {Stefenon, S. F. and Corso, M. P. and Nied, A. and Perez, F. L. and Yow, K.-C. and Gonzalez, G. V. and Leithardt, V. R. Q.}, journal={IET Generation, Transmission \& Distribution}, volume={16}, number={6}, pages={1096-1107}, doi={10.1049/gtd2.12353}, year={2021}}`
 
-`@Article{computers10090112, TITLE = {Classification of contaminated insulators using k-nearest neighbors based on computer vision}, AUTHOR = {Corso, M. P. and Perez, F. L. and Stefenon, S. F. and Yow, K.-C. and Ovejero, R. G. and Leithardt, V. R. Q.}, JOURNAL = {Computers}, VOLUME = {10}, YEAR = {2021}, NUMBER = {9}, pages = {112}, DOI = {10.3390/computers10090112}}`
+`@Article{computers10090112, TITLE = {Classification of contaminated insulators using k-nearest neighbors based on computer vision}, AUTHOR={Corso, M. P. and Perez, F. L. and Stefenon, S. F. and Yow, K.-C. and Ovejero, R. G. and Leithardt, V. R. Q.}, JOURNAL={Computers}, VOLUME={10}, YEAR={2021}, NUMBER={9}, pages={112}, DOI={10.3390/computers10090112}}`
 
 ---
 Thank you.
