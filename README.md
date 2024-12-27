@@ -3,9 +3,7 @@
 We present photographs of contaminated insulators, model 2-95-1, manufactured by Germer Isoladores, mono body, pin-type profile, voltage class 15 kV, of porcelain material.
 The photographs were taken in 5 insulators, under 8 different conditions of contamination (40 experiments), based on the combination of *equivalent salt deposit density (ESDD)* and *non-soluble deposit density (NSDD)*.   
   
-For each condition, 4 different sides photographs, and using 4 different zooms were performed.  
-In total, there are 640 photographs of contaminated insulators.  
-For comparison purposes, 48 photographs of clean insulators are also presented.
+For each condition, 4 different sides photographs, and using 4 different zooms were performed. In total, there are 640 photographs of contaminated insulators. For comparison purposes, 48 photographs of clean insulators are also presented.
 
 The analysis was performed by Marcelo Picolotto Corso at the High Voltage Laboratory, Electrical Engineering Department, Regional University of Blumenau (FURB), Blumenau, Brazil. 
 
